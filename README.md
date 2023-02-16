@@ -1,7 +1,8 @@
 # palo_streamlit_clear_stale_sessions
 
-Need: Palo doesn't have a way to clear sessions through the gui. This program is written in python and uses: streamlit, netmiko and pandas.
-![image](https://user-images.githubusercontent.com/50241257/219486027-491a238e-dbf2-407e-b35f-e90935c5a214.png)
+Need: Palo doesn't have a way to clear sessions through the gui. This program is written in python and uses: streamlit, netmiko and pandas. It connects and pulls sessions displays them in streamlit. You can select the sessions you want to clear and click clear session button to clear them. Then close the SSH session.
+
+![image](https://user-images.githubusercontent.com/50241257/219487024-7c7e52cd-b4e7-4788-914c-6cb873caa600.png)
 
 
 ### Operational overview
