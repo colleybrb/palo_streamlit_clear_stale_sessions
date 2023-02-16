@@ -10,7 +10,7 @@ You could add an input for regex to match the ip's your looking for. Also, chang
 
 * 1. Install Streamlit 
 * 2. Change credentials and file locations, uncomment #pano.send_command(f"clear session id {item}")
-* 3. Run script by "run streamlit app.py"
+* 3. Run script by "run streamlit stale_sessions.py"
 
 
 ### Contact
